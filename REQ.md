@@ -1,9 +1,9 @@
 # Mock Project Requirement for RAG Course
 
-## Course Title
+## Course
 For Beginners: Learn to Implement RAG with LLMs! Build an AI that Answers Questions Using Web Page Info
 
-## Project Title
+## Project
 Build an AI Q&A Assistant Using RAG and Web Page Information
 
 ## Objective
